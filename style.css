@@ -1,0 +1,14 @@
+header{
+    height: 200%
+    background-color:auto
+}
+nav{
+    color:brown;
+    
+    height: 150%
+}
+p{
+    color:crimson(165, 93, 42);
+    text-align:left;
+    height: 40%
+}
